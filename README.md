@@ -1,5 +1,8 @@
 # vue-blog
 
+## View Live Site
+[https://my-vue-blog.netlify.com/](https://my-vue-blog.netlify.com/)
+
 ## Project setup
 ```
 npm install
