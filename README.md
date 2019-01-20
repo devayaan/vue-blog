@@ -1,4 +1,4 @@
-# vue-router-practice
+# vue-blog
 
 ## Project setup
 ```
